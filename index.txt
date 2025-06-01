@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Maximilian Schütt
+Maximilian Schütt
 Web developer
 
 Show Contacts
